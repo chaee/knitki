@@ -2,7 +2,7 @@
 title: 대바늘 무료 도안
 description: 
 published: true
-date: 2022-11-05T20:37:00.148Z
+date: 2022-11-05T21:10:54.986Z
 tags: 정보, 도안, 레벌리, 무료 도안
 editor: markdown
 dateCreated: 2022-03-05T20:09:16.748Z
@@ -29,7 +29,7 @@ dateCreated: 2022-03-05T20:09:16.748Z
 | 사진 | 도안 | 작가 | 지원 언어 |
 |--- |--- | --- | ---|
 |<img src="https://images4-f.ravelrycache.com/uploads/mariewallin/533229606/webp/Brambling_shot_10_038_small_small2.webp#jpg" title="Brambling" width="200"/> |[Brambling](https://www.ravelry.com/patterns/library/brambling-5)| Marie Wallin |영어|
-|<img src="https://www.novitaknits.com/media/catalog/product/cache/28d051cf897726a42ac7a6dad2308e0d/h/o/hoyhen-neulepusero-novita-lumous_kevat2020.jpg" title="the classic" width="200"/> |[Feather](https://www.novitaknits.com/en/feather-sweater-novita-lumous)|Sari Nordlund|영어, 핀란드어|
+|<img src="https://www.novitaknits.com/media/catalog/product/cache/28d051cf897726a42ac7a6dad2308e0d/h/o/hoyhen-neulepusero-novita-lumous_kevat2020.jpg" title="Feather" width="200"/> |[Feather](https://www.novitaknits.com/en/feather-sweater-novita-lumous)|Sari Nordlund|영어, 핀란드어|
   
 
 ## 아란 스웨터
