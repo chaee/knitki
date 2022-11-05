@@ -14,7 +14,7 @@ dateCreated: 2022-03-12T20:11:19.295Z
 - [실 🧶](https://knitki.herokuapp.com/ko/tool/yarns)
 - [바늘](https://knitki.herokuapp.com/ko/tool/needles)
 
-- 얀 볼(yarn bowl): 실이 데굴데굴 굴러다니는 것을 방지할 수 있다
+- 얀 볼(yarn bowl): 실이 데굴데굴 굴러다니는 것을 방지할 수 있다.
 - 블로커(blocker): 양말이나 장갑, 스웨터 등을 해당 블로커의 모양에 따라 자리잡을 수 있게 도와준다. 나무나 플라스틱 재질이 흔하다. 양말 블로커의 경우 [세탁소 옷걸이](https://youtu.be/x4CQlUGvKAY) 를 변형하여 만들 수도 있다.
 - 뜨개 마커: 뜨개 하는 중간 중간 특별히 표시하고 싶은 부분이 있을 때 사용한다
 - 단수링, 콧수링: 단수 혹은 콧수를 세기 쉽게 하기 위해 표시하는 도구
