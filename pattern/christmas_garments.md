@@ -2,7 +2,7 @@
 title: 크리스마스 의류
 description: 크리스마스를 주제로 한 의류 도안
 published: true
-date: 2022-11-16T12:20:30.048Z
+date: 2022-11-16T12:21:23.712Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-16T08:18:09.985Z
@@ -20,11 +20,12 @@ dateCreated: 2022-11-16T08:18:09.985Z
 | 사진 | 도안 | 지원 언어 | 가격|
 |--- |--- | --- |--- | 
 |<img src="https://images4-f.ravelrycache.com/uploads/nataliesheldon/742412065/webp/2020_advent_pair_medium.webp#jpg" width="150"/>|[Advent Socks 2020](https://www.ravelry.com/patterns/library/advent-socks-2020)| 영어|무료|
-|<img src="https://images4-f.ravelrycache.com/uploads/Scandiwork/886674410/Inge-13_medium.jpg" width="150"/>|[ Inge Slippers ](https://www.ravelry.com/patterns/library/inge-slippers)| 영어|무료|
 |<img src="https://images4-f.ravelrycache.com/uploads/Drops/481185697/webp/722-2_medium.webp#jpg" width="150"/>|[ 0-722 Dancing Elves ](https://www.ravelry.com/patterns/library/0-722-dancing-elves)| 영어|무료|
 |<img src="https://images4-f.ravelrycache.com/uploads/thishandmadelife/821275745/webp/8D9AB7F9-1259-4104-A96A-87510A3CEDE0_1_201_a_medium.webp#jpeg" width="150"/>|[ Holly & Jolly Socks ](https://www.ravelry.com/patterns/library/holly--jolly-socks)| 영어|무료|
 |<img src="https://images4-f.ravelrycache.com/uploads/ALazyBeauty/413932778/webp/fullsizeoutput_1e49_small2.webp#jpeg" width="150"/>|[ O Dennenboom ](https://www.ravelry.com/patterns/library/o-dennenboom)| 영어|무료|
 |<img src="https://images4-g.ravelrycache.com/uploads/iamarebel/677925210/webp/Woodland_socks1_medium.webp#jpg" width="150"/>|[ Woodland Socks ](https://www.ravelry.com/patterns/library/woodland-socks-4)|한국어, 영어|$5.95 USD|
+|<img src="https://images4-f.ravelrycache.com/uploads/Scandiwork/886674410/Inge-13_medium.jpg" width="150"/>|[ Inge Slippers ](https://www.ravelry.com/patterns/library/inge-slippers)| 영어|$7.14 USD|
+
 
 
 ## 장갑
