@@ -2,7 +2,7 @@
 title: 크리스마스 의류
 description: 크리스마스를 주제로 한 의류 도안
 published: true
-date: 2022-11-16T12:15:17.928Z
+date: 2022-11-16T12:20:30.048Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-16T08:18:09.985Z
@@ -14,7 +14,6 @@ dateCreated: 2022-11-16T08:18:09.985Z
 |<img src="https://images4-g.ravelrycache.com/uploads/Skeindeer/883679222/IMG_2830_medium.jpeg" width="150"/>|[ Festive Yoke Pullover ](https://www.ravelry.com/patterns/library/festive-yoke-pullover)| 영어|£7.14 GBP|
 |<img src="https://images4-g.ravelrycache.com/uploads/Skeindeer/823366979/webp/Image_from_iOS__2__medium.webp#jpg" width="150"/>|[ Festive Yoke Cardigan ](https://www.ravelry.com/patterns/library/festive-yoke-cardigan)| 영어|£7.14 GBP|
 |<img src="https://images4-g.ravelrycache.com/uploads/annaj0hanna/783308035/webp/overgrown40_small2.webp#jpg" width="150"/>|[ Overgrown ](https://www.ravelry.com/patterns/library/overgrown-2)| 영어|€8.90 EUR|
-<!---# |<img src="" width="150"/>|[]()| 영어|무료|-->
 
 
 ## 양말, 슬리퍼
