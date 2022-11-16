@@ -2,7 +2,7 @@
 title: 🐑 뜨개 위키에 오신 것을 환영합니다  🌿 
 description: 
 published: true
-date: 2022-11-11T18:07:00.954Z
+date: 2022-11-16T08:17:04.280Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-05T19:59:50.740Z
@@ -40,7 +40,8 @@ dateCreated: 2022-03-05T19:59:50.740Z
 - [추천하는 대바늘 무료 도안 ✨](https://knitki.herokuapp.com/ko/pattern/knitting_patterns)
 - [작고 귀여운 과일, 채소, 동물 도안 🍒](https://knitki.herokuapp.com/ko/pattern/little_sweet_kal)
 - [뜨개구리 만들기 🐸](https://knitki.herokuapp.com/ko/frog)
-- [크리스마스 준비 🎄❄️](https://knitki.herokuapp.com/ko/pattern/christmas)
+- [크리스마스 장식 🎄](https://knitki.herokuapp.com/ko/pattern/christmas)
+- [크리스마스 의류 ❄️](https://knitki.herokuapp.com/ko/pattern/christmas_garments)
 - [래벌리에서 한국어 도안 찾는 법 🇰🇷](https://knitki.herokuapp.com/ko/pattern/ravelry_korean)
 
 
