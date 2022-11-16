@@ -2,7 +2,7 @@
 title: 크리스마스 의류
 description: 크리스마스를 주제로 한 의류 도안
 published: true
-date: 2022-11-16T08:18:09.985Z
+date: 2022-11-16T08:20:34.872Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-16T08:18:09.985Z
@@ -19,4 +19,4 @@ dateCreated: 2022-11-16T08:18:09.985Z
 |<img src="https://images4-g.ravelrycache.com/uploads/knitnetty/47100811/webp/cimg3694_small2.webp#jpg" width="150"/>|[ Winterland/Vinterland ](https://www.ravelry.com/patterns/library/winterland-vinterland)| 영어|kr.53.55 NOK|
 |<img src="https://images4-f.ravelrycache.com/uploads/thishandmadelife/821275745/webp/8D9AB7F9-1259-4104-A96A-87510A3CEDE0_1_201_a_medium.webp#jpeg" width="150"/>|[ Holly & Jolly Socks ](https://www.ravelry.com/patterns/library/holly--jolly-socks)| 영어|무료|
 |<img src="https://images4-f.ravelrycache.com/uploads/ALazyBeauty/413932778/webp/fullsizeoutput_1e49_small2.webp#jpeg" width="150"/>|[ O Dennenboom ](https://www.ravelry.com/patterns/library/o-dennenboom)| 영어|무료|
-|<img src="" width="150"/>|[]()| 영어|무료|
+|<img src="https://images4-g.ravelrycache.com/uploads/ykdesigns/664874499/webp/0EC33B71-643F-400C-BCE7-4CA6455FBF42_small2.webp#jpeg" width="150"/>|[ #35 Pine Tree Hat- baby, child & adult hat ](https://www.ravelry.com/patterns/library/35-pine-tree-hat--baby-child--adult-hat)| 영어|무료|
