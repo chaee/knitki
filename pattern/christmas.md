@@ -2,7 +2,7 @@
 title: 크리스마스 준비
 description: 크리스마스 무렵에 생각나는 도안
 published: true
-date: 2022-11-16T12:20:15.293Z
+date: 2022-11-16T13:08:27.797Z
 tags: 크리스마스, 트리, 양말, 선물, 월동준비, 어드벤트
 editor: markdown
 dateCreated: 2022-11-11T18:36:21.614Z
@@ -47,6 +47,7 @@ dateCreated: 2022-11-11T18:36:21.614Z
 |<img src="https://images4-f.ravelrycache.com/uploads/rekishi/612267933/webp/RBG_001_medium.webp#jpg" width="150"/>|[ RBG Ball ](https://www.ravelry.com/patterns/library/rbg-ball)| 영어|무료|
 |<img src="https://images4-g.ravelrycache.com/uploads/knitchick2/561651191/webp/307628582_1ee456416f_z_medium.webp#jpg" width="150"/>|[ Knitted and Felted Ornaments and Garland ](https://www.ravelry.com/patterns/library/knitted-and-felted-ornaments-and-garland)| 영어|무료|
 |<img src="https://images4-g.ravelrycache.com/uploads/Dona-C/183222148/DSC_0013_medium.JPG" width="150"/>|[ Sheep Balls ](https://www.ravelry.com/patterns/library/sheep-balls)| 영어|$2.98 USD|
+|<img src="https://images4-g.ravelrycache.com/uploads/fiveoaks66/667903137/webp/4FAF8BA0-9FFB-4893-BC88-E793779AFF08_medium.webp#jpeg" width="150"/>|[ 12 Days of Baubles Part 3 ](https://www.ravelry.com/patterns/library/12-days-of-baubles-part-3)| 영어|$7.74 USD|
 
 
 ## 작은 의류
