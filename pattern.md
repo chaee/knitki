@@ -2,7 +2,7 @@
 title: 도안
 description: 
 published: true
-date: 2022-04-28T10:42:42.105Z
+date: 2022-11-16T08:41:02.023Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-12T20:10:06.854Z
@@ -20,3 +20,6 @@ dateCreated: 2022-03-12T20:10:06.854Z
 - [자투리 실 사용하는 대바늘 도안](https://knitki.herokuapp.com/ko/pattern/stash_busting_knitting)
 
 - [작고 귀여운 동물, 과일, 채소 도안](https://knitki.herokuapp.com/ko/pattern/little_sweet_kal)
+
+- [크리스마스 장식 🎄](https://knitki.herokuapp.com/ko/pattern/christmas)
+- [크리스마스 의류 ❄️](https://knitki.herokuapp.com/ko/pattern/christmas_garments)
