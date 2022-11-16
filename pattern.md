@@ -2,7 +2,7 @@
 title: 도안
 description: 
 published: true
-date: 2022-11-16T08:41:02.023Z
+date: 2022-11-16T08:41:28.545Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-12T20:10:06.854Z
@@ -16,7 +16,7 @@ dateCreated: 2022-03-12T20:10:06.854Z
 - [래벌리에서 한국어 도안 찾는 방법](https://knitki.herokuapp.com/ko/pattern/ravelry_korean)
 - [래벌리 외 한국어 도안 판매처](https://knitki.herokuapp.com/ko/pattern/korean_designers)
 
-# 그 외 주제별 도안 모음
+# 주제별 도안 모음
 - [자투리 실 사용하는 대바늘 도안](https://knitki.herokuapp.com/ko/pattern/stash_busting_knitting)
 
 - [작고 귀여운 동물, 과일, 채소 도안](https://knitki.herokuapp.com/ko/pattern/little_sweet_kal)
