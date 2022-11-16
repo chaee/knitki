@@ -2,7 +2,7 @@
 title: 크리스마스 준비
 description: 크리스마스 무렵에 생각나는 도안
 published: true
-date: 2022-11-16T08:39:28.709Z
+date: 2022-11-16T12:05:32.805Z
 tags: 크리스마스, 트리, 양말, 선물, 월동준비, 어드벤트
 editor: markdown
 dateCreated: 2022-11-11T18:36:21.614Z
@@ -26,12 +26,8 @@ dateCreated: 2022-11-11T18:36:21.614Z
 |<img src="https://images4-f.ravelrycache.com/uploads/anniwool/637039/webp/kitevergreen-3_small2.webp#jpg" width="150"/>|[ Holiday Evergreen Christmas Stocking ](https://www.ravelry.com/patterns/library/holiday-evergreen-christmas-stocking)| 영어|$8.33 USD|
 |<img src="https://images4-f.ravelrycache.com/uploads/fluffandfuzz/739632519/webp/34222453743_9cba5c9be8_o_Fotor_small2.webp#jpg" width="150"/>|[ Christmas Stockings ](https://www.ravelry.com/patterns/library/christmas-stockings-24)| 영어|무료|
 |<img src="https://images4-f.ravelrycache.com/uploads/AJCrafting/751123006/webp/PXL_20201220_073218131_small2.webp#jpg" width="150"/>|[ Nisse - Christmas Stocking 2016 ](https://www.ravelry.com/patterns/library/nisse---christmas-stocking-2016)| 영어|$7.00|
-|<img src="" width="150"/>|[ Jumbo Christmas Stocking in a Jiffy - Solid ](https://www.ravelry.com/patterns/library/jumbo-christmas-stocking-in-a-jiffy---solid)| 영어|무료|
-|<img src="https://images4-f.ravelrycache.com/uploads/majorknitter/199146209/webp/IMG_3836_small2.webp#JPG" width="150"/>|[]()| 영어|무료|
+|<img src="https://images4-f.ravelrycache.com/uploads/majorknitter/199146209/webp/IMG_3836_small2.webp#JPG" width="150" width="150"/>|[ Jumbo Christmas Stocking in a Jiffy - Solid ](https://www.ravelry.com/patterns/library/jumbo-christmas-stocking-in-a-jiffy---solid)| 영어|무료|
 |<img src="https://images4-g.ravelrycache.com/uploads/Shandeh/412319302/webp/patons-classicwoolworsted-k-sugartwistknitstocking-web_small2.webp#jpg" width="150"/>|[ Sugar Twist Knit Stocking ](https://www.ravelry.com/patterns/library/sugar-twist-knit-stocking)| 영어|무료|
-|<img src="" width="150"/>|[]()| 영어|무료|
-|<img src="" width="150"/>|[]()| 영어|무료|
-|<img src="" width="150"/>|[]()| 영어|무료|
 
 # 트리 장식
 ## 크리스마스볼
@@ -49,9 +45,11 @@ dateCreated: 2022-11-11T18:36:21.614Z
 ## 작은 의류
 | 사진 | 도안 | 지원 언어 | 가격|
 |--- |--- | --- |--- | 
-|<img src="https://images4-f.ravelrycache.com/uploads/susanbanderson/586932362/Screen_Shot_2018-11-23_at_5.17.30_PM_small2.png" width="150"/>|[ Little Long Johns ](https://www.ravelry.com/patterns/library/little-long-johns)| 영어|USD 5$|
+|<img src="https://images4-f.ravelrycache.com/uploads/KelbourneWoolens/415129610/webp/holiday_ornaments-1_medium.webp#jpg" width="150"/>|[ Holiday Cheer Ornaments ](https://www.ravelry.com/patterns/library/holiday-cheer-ornaments-2)| 영어|무료|
 |<img src="https://images4-g.ravelrycache.com/uploads/lnore01/196719374/webp/garland01_medium.webp#jpg" width="150"/>|[ Santa's Laundry Line ](https://www.ravelry.com/patterns/library/santas-laundry-line)| 영어|무료|
 |<img src="https://images4-g.ravelrycache.com/uploads/susanbanderson/485886064/webp/fullsizeoutput_a49_medium.webp#jpeg" width="150"/>|[ Holiday Charm Set ](https://www.ravelry.com/patterns/library/holiday-charm-set)| 영어|무료|
+|<img src="https://images4-f.ravelrycache.com/uploads/susanbanderson/586932362/Screen_Shot_2018-11-23_at_5.17.30_PM_small2.png" width="150"/>|[ Little Long Johns ](https://www.ravelry.com/patterns/library/little-long-johns)| 영어|USD 5$|
+
 
 ### 작은 스웨터
 | 사진 | 도안 | 지원 언어 | 가격|
@@ -113,6 +111,8 @@ dateCreated: 2022-11-11T18:36:21.614Z
 ### 기타 장식
 | 사진 | 도안 | 지원 언어 | 가격|
 |--- |--- | --- |--- | 
+<!---# |<img src="" width="150"/>|[]()| 영어|무료|-->
+|<img src="https://images4-g.ravelrycache.com/uploads/madder/646249100/webp/DSC_3738_medium.webp#jpg" width="150"/>|[Moose](https://www.ravelry.com/patterns/library/moose-20)| 영어|$7.50 USD|
 |<img src="https://images4-g.ravelrycache.com/flickr/1/1/2/11218352033/11218352033_n.jpg" width="150"/>|[ Woodland Wreath, Holly ](https://www.ravelry.com/patterns/library/woodland-wreath-holly)| 영어|무료|
 |<img src="https://images4-g.ravelrycache.com/flickr/4/1/5/4156543405/4156543405_n.jpg" width="150"/>|[ Knitted Fruit Basket Ornament ](https://www.ravelry.com/patterns/library/knitted-fruit-basket-ornament)| 영어|무료|
 |<img src="https://images4-g.ravelrycache.com/uploads/saraek/293892913/webp/034_small2_medium_medium_medium.webp#JPG" width="150"/>|[ Bluebird of Happiness ](https://www.ravelry.com/patterns/library/bluebird-of-happiness-4)| 영어|무료|
@@ -120,6 +120,5 @@ dateCreated: 2022-11-11T18:36:21.614Z
 |<img src="https://images4-g.ravelrycache.com/flickr/6/3/3/6336648859/6336648859.jpg" width="150"/>|[ Advent Garland ](https://www.ravelry.com/patterns/library/advent-garland)| 영어|무료|
 |<img src="https://images4-f.ravelrycache.com/uploads/heathblaine/4221037/webp/026_medium.webp#JPG" width="150"/>|[ Acorn Ornament ](https://www.ravelry.com/patterns/library/acorn-ornament)| 영어|무료|
 |<img src="https://images4-f.ravelrycache.com/uploads/teresaknits/53578496/2266252448_ff628ab4a0_z_medium.jpg" width="150"/>|[ Little Hearts ](https://www.ravelry.com/patterns/library/little-hearts)| 영어|무료|
- |<img src="https://images4-f.ravelrycache.com/uploads/KelbourneWoolens/415129610/webp/holiday_ornaments-1_medium.webp#jpg" width="150"/>|[ Holiday Cheer Ornaments ](https://www.ravelry.com/patterns/library/holiday-cheer-ornaments-2)| 영어|무료|
 |<img src="https://images4-g.ravelrycache.com/uploads/susanbanderson/591426837/DSC_3270_small.jpg" width="150"/>|[ Holiday Charm Set No. 2 ](https://www.ravelry.com/patterns/library/holiday-charm-set-no-2)| 영어|무료|
 |<img src="https://images4-f.ravelrycache.com/uploads/tanisfiberarts/268347675/webp/IMG_4278_medium.webp#JPG" width="150"/>|[ Love You Forever ](https://www.ravelry.com/patterns/library/love-you-forever)| 영어|무료|
