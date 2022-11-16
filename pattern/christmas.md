@@ -2,7 +2,7 @@
 title: 크리스마스 준비
 description: 크리스마스 무렵에 생각나는 도안
 published: true
-date: 2022-11-16T13:09:21.669Z
+date: 2022-11-16T13:09:56.568Z
 tags: 크리스마스, 트리, 양말, 선물, 월동준비, 어드벤트
 editor: markdown
 dateCreated: 2022-11-11T18:36:21.614Z
@@ -27,7 +27,7 @@ dateCreated: 2022-11-11T18:36:21.614Z
 |<img src="https://images4-g.ravelrycache.com/uploads/Shandeh/412319302/webp/patons-classicwoolworsted-k-sugartwistknitstocking-web_small2.webp#jpg" width="150"/>|[ Sugar Twist Knit Stocking ](https://www.ravelry.com/patterns/library/sugar-twist-knit-stocking)| 영어|무료|
 |<img src="https://images4-g.ravelrycache.com/flickr/3/0/6/3061639224/3061639224.jpg" width="150"/>|[ Last Minute Stockings ](https://www.ravelry.com/patterns/library/last-minute-stockings)| 영어|£6.00 GBP|
 |<img src="https://images4-f.ravelrycache.com/uploads/FrenchPressKnits/409451761/webp/jovial_square_medium.webp#jpg" width="150"/>|[ Jovial Stocking ](https://www.ravelry.com/patterns/library/jovial-stocking)| 영어|$7.14 USD|
-|<img src="https://images4-g.ravelrycache.com/uploads/SheThinksSheCan/751548980/webp/Holiday_Chalet_main_flat_medium.webp#jpg" width="150"/>|[ Holiday Chalet ](https://www.ravelry.com/patterns/library/holiday-chalet)| 영어|무료|
+|<img src="https://images4-g.ravelrycache.com/uploads/SheThinksSheCan/751548980/webp/Holiday_Chalet_main_flat_medium.webp#jpg" width="150"/>|[ Holiday Chalet ](https://www.ravelry.com/patterns/library/holiday-chalet)| 영어|$7.14 USD|
 |<img src="https://images4-f.ravelrycache.com/uploads/anniwool/637039/webp/kitevergreen-3_small2.webp#jpg" width="150"/>|[ Holiday Evergreen Christmas Stocking ](https://www.ravelry.com/patterns/library/holiday-evergreen-christmas-stocking)| 영어|$8.33 USD|
 |<img src="https://images4-f.ravelrycache.com/uploads/AJCrafting/751123006/webp/PXL_20201220_073218131_small2.webp#jpg" width="150"/>|[ Nisse - Christmas Stocking 2016 ](https://www.ravelry.com/patterns/library/nisse---christmas-stocking-2016)| 영어|$7.00|
 |<img src="https://images4-f.ravelrycache.com/uploads/LindaKnitter/822678864/webp/Boblen_1_medium.webp#jpg" width="150"/>|[  Boblen - Christmas Stocking 2021 ](https://www.ravelry.com/patterns/library/boblen---christmas-stocking-2021)| 영어|$7.00|
