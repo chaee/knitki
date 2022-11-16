@@ -2,7 +2,7 @@
 title: 🐑 뜨개 위키에 오신 것을 환영합니다  🌿 
 description: 
 published: true
-date: 2022-11-16T08:17:04.280Z
+date: 2022-11-16T12:37:03.040Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-05T19:59:50.740Z
@@ -12,9 +12,7 @@ dateCreated: 2022-03-05T19:59:50.740Z
 > 오픈 소스 기반의 프로젝트로 누구나 작성자로 참여할 수 있습니다!
 {.is-info}
 
-
-> 뜨개 관련된 이야기를 나눌 수 있는 [디스코드 서버🔗](https://t.co/7pYuDu8yKe) 로도 초대합니다 🎉 
-> 뜨개 위키에 바라는 점, 기여하고 싶은 내용, 빠진 내용에 대한 제보, 이 외에도 다른 뜨개인들과 나누고 싶은 것이라면 무엇이든 편하게 전해주세요. 
+> 뜨개 위키 [디스코드 서버🔗](https://t.co/7pYuDu8yKe) 로도 초대합니다 🎉 
 
 ## 뜨개 위키 101🧵
 - [📖 뜨개 위키에 대하여](https://knitki.herokuapp.com/ko/about)
@@ -24,6 +22,7 @@ dateCreated: 2022-03-05T19:59:50.740Z
 ## 뜨개를 하는 데 필요한 것
 - [뜨개 위키가 써보고 추천하는 실 🧶](https://knitki.herokuapp.com/ko/tool/yarn_rec)
 - [뜨개 도구 총정리 🛠️](https://knitki.herokuapp.com/ko/tool)
+- [래벌리에서 한국어 도안 찾는 법 🇰🇷](https://knitki.herokuapp.com/ko/pattern/ravelry_korean)
 
 <!----[💗 세상을 바꾸는 뜨개](https://knitki.herokuapp.com/ko/knit_for_good)
 -->
@@ -31,17 +30,19 @@ dateCreated: 2022-03-05T19:59:50.740Z
 
 <!---- [실 🧶](https://knitki.herokuapp.com/ko/tool/yarns)-->
 <!---- [뜨개 약어](https://knitki.herokuapp.com/ko/skill/abbreviations)-->
+
+
 ## 뜨개 하는 방법 
 - [뜨개 기법 영상 🔍](https://knitki.herokuapp.com/ko/skill/tutorials)
 - [대바늘 규격 변환표 🔱](https://knitki.herokuapp.com/ko/tool/needle_size_conversion)
 
 
-## 뜨개 도안 - 무엇을 만들 것인가 🎨
-- [추천하는 대바늘 무료 도안 ✨](https://knitki.herokuapp.com/ko/pattern/knitting_patterns)
+
+## 무엇을 만들 것인가 🎨
+- [추천하는 대바늘 무료 도안](https://knitki.herokuapp.com/ko/pattern/knitting_patterns)
 - [작고 귀여운 과일, 채소, 동물 도안 🍒](https://knitki.herokuapp.com/ko/pattern/little_sweet_kal)
 - [뜨개구리 만들기 🐸](https://knitki.herokuapp.com/ko/frog)
-- [크리스마스 장식 🎄](https://knitki.herokuapp.com/ko/pattern/christmas)
-- [크리스마스 의류 ❄️](https://knitki.herokuapp.com/ko/pattern/christmas_garments)
-- [래벌리에서 한국어 도안 찾는 법 🇰🇷](https://knitki.herokuapp.com/ko/pattern/ravelry_korean)
+- [✨ 크리스마스 장식 🎄](https://knitki.herokuapp.com/ko/pattern/christmas)
+- [✨ 크리스마스 의류 ❄️](https://knitki.herokuapp.com/ko/pattern/christmas_garments)
 
 
