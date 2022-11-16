@@ -2,7 +2,7 @@
 title: 크리스마스 준비
 description: 크리스마스 무렵에 생각나는 도안
 published: true
-date: 2022-11-16T13:08:27.797Z
+date: 2022-11-16T13:09:21.669Z
 tags: 크리스마스, 트리, 양말, 선물, 월동준비, 어드벤트
 editor: markdown
 dateCreated: 2022-11-11T18:36:21.614Z
@@ -32,7 +32,7 @@ dateCreated: 2022-11-11T18:36:21.614Z
 |<img src="https://images4-f.ravelrycache.com/uploads/AJCrafting/751123006/webp/PXL_20201220_073218131_small2.webp#jpg" width="150"/>|[ Nisse - Christmas Stocking 2016 ](https://www.ravelry.com/patterns/library/nisse---christmas-stocking-2016)| 영어|$7.00|
 |<img src="https://images4-f.ravelrycache.com/uploads/LindaKnitter/822678864/webp/Boblen_1_medium.webp#jpg" width="150"/>|[  Boblen - Christmas Stocking 2021 ](https://www.ravelry.com/patterns/library/boblen---christmas-stocking-2021)| 영어|$7.00|
 |<img src="https://images4-f.ravelrycache.com/uploads/hailsbails/747160405/webp/stockings7_medium.webp#jpg" width="150"/>|[ The Forest Fair Isle Stocking ](https://www.ravelry.com/patterns/library/the-forest-fair-isle-stocking)| 영어|$8.33 USD|
-
+|<img src="https://images4-g.ravelrycache.com/uploads/PetiteKnitDK/886956256/julesok6_medium.JPG" width="150"/>|[ Christmas Stocking ](https://www.ravelry.com/patterns/library/christmas-stocking-122)| 영어|kr.30.00 DKK|
 
 # 트리 장식
 <!---# |<img src="" width="150"/>|[]()| 영어|무료|-->
