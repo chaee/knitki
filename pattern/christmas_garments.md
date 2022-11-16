@@ -2,7 +2,7 @@
 title: 크리스마스 의류
 description: 크리스마스를 주제로 한 의류 도안
 published: true
-date: 2022-11-16T12:21:23.712Z
+date: 2022-11-16T12:22:07.191Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-16T08:18:09.985Z
@@ -31,7 +31,7 @@ dateCreated: 2022-11-16T08:18:09.985Z
 ## 장갑
 | 사진 | 도안 | 지원 언어 | 가격|
 |--- |--- | --- |--- | 
-|<img src="https://images4-g.ravelrycache.com/uploads/Runningyarn2/592892159/upload_medium" width="150"/>|[ Julenatt ](https://www.ravelry.com/patterns/library/julenatt)| 영어|무료|
+|<img src="https://images4-g.ravelrycache.com/uploads/Runningyarn2/592892159/upload_medium" width="150"/>|[ Julenatt ](https://www.ravelry.com/patterns/library/julenatt)| 영어|£5.95 GBP|
 |<img src="https://images4-g.ravelrycache.com/uploads/knitnetty/47100811/webp/cimg3694_small2.webp#jpg" width="150"/>|[ Winterland/Vinterland ](https://www.ravelry.com/patterns/library/winterland-vinterland)| 영어|kr.53.55 NOK|
 |<img src="https://images4-g.ravelrycache.com/uploads/iamarebel/590944042/webp/Holiday_Mittens-1_medium.webp#jpg" width="150"/>|[ Holiday Mittens ](https://www.ravelry.com/patterns/library/holiday-mittens)| 한국어, 영어|$5.95 USD|
 
