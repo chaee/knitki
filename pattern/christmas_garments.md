@@ -1,8 +1,8 @@
 ---
 title: 크리스마스 의류
-description: 크리스마스를 주제로 한 의류 도안
+description: 크리스마스가 생각나는 의류 도안
 published: true
-date: 2022-11-16T12:22:07.191Z
+date: 2022-11-16T12:22:39.542Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-16T08:18:09.985Z
