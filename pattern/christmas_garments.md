@@ -2,7 +2,7 @@
 title: 크리스마스 의류
 description: 크리스마스가 생각나는 의류 도안
 published: true
-date: 2022-11-16T12:22:39.542Z
+date: 2022-11-16T12:28:07.357Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-16T08:18:09.985Z
@@ -31,9 +31,13 @@ dateCreated: 2022-11-16T08:18:09.985Z
 ## 장갑
 | 사진 | 도안 | 지원 언어 | 가격|
 |--- |--- | --- |--- | 
+|<img src="https://images4-g.ravelrycache.com/uploads/nordicmart/36438158/14-2_medium.jpg" width="150"/>|[ 122-14 Oh Deer Gloves! ](https://www.ravelry.com/patterns/library/122-14-oh-deer-gloves)| 영어|무료|
+|<img src="https://images4-g.ravelrycache.com/uploads/thepetiteknitter/745103289/webp/QJUT4055_-_Edited_medium.webp#jpg" width="150"/>|[ finnfolk ](https://www.ravelry.com/patterns/library/finnfolk)| 영어|C$8.33 CAD|
 |<img src="https://images4-g.ravelrycache.com/uploads/Runningyarn2/592892159/upload_medium" width="150"/>|[ Julenatt ](https://www.ravelry.com/patterns/library/julenatt)| 영어|£5.95 GBP|
 |<img src="https://images4-g.ravelrycache.com/uploads/knitnetty/47100811/webp/cimg3694_small2.webp#jpg" width="150"/>|[ Winterland/Vinterland ](https://www.ravelry.com/patterns/library/winterland-vinterland)| 영어|kr.53.55 NOK|
 |<img src="https://images4-g.ravelrycache.com/uploads/iamarebel/590944042/webp/Holiday_Mittens-1_medium.webp#jpg" width="150"/>|[ Holiday Mittens ](https://www.ravelry.com/patterns/library/holiday-mittens)| 한국어, 영어|$5.95 USD|
+|<img src="https://images4-g.ravelrycache.com/uploads/Stitchydragon/819868345/webp/20211120_132601138_iOS_medium.webp#jpg" width="150"/>|[ Christmas Treat Fingerless Gloves ](https://www.ravelry.com/patterns/library/christmas-treat-fingerless-gloves)| 영어|£5.65 GBP|
+
 
 
 ## 모자
