@@ -2,7 +2,7 @@
 title: 크리스마스 준비
 description: 크리스마스 무렵에 생각나는 도안
 published: true
-date: 2022-11-16T12:05:32.805Z
+date: 2022-11-16T12:18:14.707Z
 tags: 크리스마스, 트리, 양말, 선물, 월동준비, 어드벤트
 editor: markdown
 dateCreated: 2022-11-11T18:36:21.614Z
@@ -14,7 +14,6 @@ dateCreated: 2022-11-11T18:36:21.614Z
 |<img src="https://images4-g.ravelrycache.com/uploads/mariewallin/701198649/Screenshot_2020-05-05_at_15.54.56_medium.png" width="150"/>|[ Nordic Christmas Stocking ](https://www.ravelry.com/patterns/library/nordic-christmas-stocking-4)| 영어|무료|
 |<img src="https://images4-g.ravelrycache.com/uploads/spindleknitter/47447830/webp/stockings_6_medium.webp#jpg" width="150"/>|[Spindleknitter's Stockings](https://www.ravelry.com/patterns/library/spindleknitters-stockings)| 영어|무료|
 |<img src="https://images4-f.ravelrycache.com/uploads/mintyrae/25022219/w104_medium.JPG" width="150"/>|[ Cascade Christmas Stocking ](https://www.ravelry.com/patterns/library/cascade-christmas-stocking)| 영어|무료|
-|<img src="https://images4-f.ravelrycache.com/uploads/nataliesheldon/742412065/webp/2020_advent_pair_medium.webp#jpg" width="150"/>|[Advent Socks 2020](https://www.ravelry.com/patterns/library/advent-socks-2020)| 영어|무료; 실제 양말 크기|
 |<img src="https://images4-g.ravelrycache.com/uploads/llamarche/311483295/webp/IMG_3569_medium.webp#JPG" width="150"/>|[ Sweetheart Xmas Stocking ](https://www.ravelry.com/patterns/library/sweetheart-xmas-stocking)| 영어|무료|
 |<img src="https://images4-g.ravelrycache.com/uploads/Yarnspirations/670006505/upload_medium" width="150"/>|[ Holiday Stocking (Knit) ](https://www.ravelry.com/patterns/library/holiday-stocking-knit)| 영어|무료|
 |<img src="https://images4-f.ravelrycache.com/uploads/llamarche/311486375/webp/IMG_3557_medium.webp#JPG" width="150"/>|[Mardi Gras Stocking](https://www.ravelry.com/patterns/library/mardi-gras-stocking)| 영어|무료|
@@ -23,13 +22,23 @@ dateCreated: 2022-11-11T18:36:21.614Z
 |<img src="https://images4-f.ravelrycache.com/uploads/PindropShop/814059210/webp/IMG_3743__2__medium.webp#JPG" width="150"/>|[ Christmas Village Stocking ](https://www.ravelry.com/patterns/library/christmas-village-stocking)| 영어|무료|
 |<img src="https://images4-f.ravelrycache.com/uploads/llamarche/311484577/webp/IMG_3563_medium.webp#JPG" width="150"/>|[ Snowflakes Xmas Stocking ](https://www.ravelry.com/patterns/library/snowflakes-xmas-stocking)| 영어|무료|
 |<img src="https://images4-f.ravelrycache.com/uploads/poyeng/200021064/webp/IMG_2013_copy_medium.webp#jpg" width="150"/>|[ Stranded Holiday Stocking ](https://www.ravelry.com/patterns/library/stranded-holiday-stocking)| 영어|무료|
-|<img src="https://images4-f.ravelrycache.com/uploads/anniwool/637039/webp/kitevergreen-3_small2.webp#jpg" width="150"/>|[ Holiday Evergreen Christmas Stocking ](https://www.ravelry.com/patterns/library/holiday-evergreen-christmas-stocking)| 영어|$8.33 USD|
 |<img src="https://images4-f.ravelrycache.com/uploads/fluffandfuzz/739632519/webp/34222453743_9cba5c9be8_o_Fotor_small2.webp#jpg" width="150"/>|[ Christmas Stockings ](https://www.ravelry.com/patterns/library/christmas-stockings-24)| 영어|무료|
-|<img src="https://images4-f.ravelrycache.com/uploads/AJCrafting/751123006/webp/PXL_20201220_073218131_small2.webp#jpg" width="150"/>|[ Nisse - Christmas Stocking 2016 ](https://www.ravelry.com/patterns/library/nisse---christmas-stocking-2016)| 영어|$7.00|
 |<img src="https://images4-f.ravelrycache.com/uploads/majorknitter/199146209/webp/IMG_3836_small2.webp#JPG" width="150" width="150"/>|[ Jumbo Christmas Stocking in a Jiffy - Solid ](https://www.ravelry.com/patterns/library/jumbo-christmas-stocking-in-a-jiffy---solid)| 영어|무료|
 |<img src="https://images4-g.ravelrycache.com/uploads/Shandeh/412319302/webp/patons-classicwoolworsted-k-sugartwistknitstocking-web_small2.webp#jpg" width="150"/>|[ Sugar Twist Knit Stocking ](https://www.ravelry.com/patterns/library/sugar-twist-knit-stocking)| 영어|무료|
+|<img src="https://images4-f.ravelrycache.com/uploads/AJCrafting/751123006/webp/PXL_20201220_073218131_small2.webp#jpg" width="150"/>|[ Nisse - Christmas Stocking 2016 ](https://www.ravelry.com/patterns/library/nisse---christmas-stocking-2016)| 영어|$7.00|
+|<img src="https://images4-f.ravelrycache.com/uploads/LindaKnitter/822678864/webp/Boblen_1_medium.webp#jpg" width="150"/>|[  Boblen - Christmas Stocking 2021 ](https://www.ravelry.com/patterns/library/boblen---christmas-stocking-2021)| 영어|$7.00|
+|<img src="https://images4-f.ravelrycache.com/uploads/hailsbails/747160405/webp/stockings7_medium.webp#jpg" width="150"/>|[ The Forest Fair Isle Stocking ](https://www.ravelry.com/patterns/library/the-forest-fair-isle-stocking)| 영어|$8.33 USD|
+|<img src="https://images4-g.ravelrycache.com/flickr/3/0/6/3061639224/3061639224.jpg" width="150"/>|[ Last Minute Stockings ](https://www.ravelry.com/patterns/library/last-minute-stockings)| 영어|£6.00 GBP|
+|<img src="https://images4-f.ravelrycache.com/uploads/anniwool/637039/webp/kitevergreen-3_small2.webp#jpg" width="150"/>|[ Holiday Evergreen Christmas Stocking ](https://www.ravelry.com/patterns/library/holiday-evergreen-christmas-stocking)| 영어|$8.33 USD|
+|<img src="https://images4-f.ravelrycache.com/uploads/FrenchPressKnits/409451761/webp/jovial_square_medium.webp#jpg" width="150"/>|[ Jovial Stocking ](https://www.ravelry.com/patterns/library/jovial-stocking)| 영어|$7.14 USD|
+|<img src="https://images4-g.ravelrycache.com/uploads/SheThinksSheCan/751548980/webp/Holiday_Chalet_main_flat_medium.webp#jpg" width="150"/>|[ Holiday Chalet ](https://www.ravelry.com/patterns/library/holiday-chalet)| 영어|무료|
+|<img src="" width="150"/>|[]()| 영어|무료|
+|<img src="" width="150"/>|[]()| 영어|무료|
+
 
 # 트리 장식
+<!---# |<img src="" width="150"/>|[]()| 영어|무료|-->
+
 ## 크리스마스볼
 | 사진 | 도안 | 지원 언어 | 가격|
 |--- |--- | --- |--- | 
@@ -112,6 +121,8 @@ dateCreated: 2022-11-11T18:36:21.614Z
 | 사진 | 도안 | 지원 언어 | 가격|
 |--- |--- | --- |--- | 
 <!---# |<img src="" width="150"/>|[]()| 영어|무료|-->
+<!---# |<img src="" width="150"/>|[]()| 영어|무료|-->
+|<img src="https://images4-g.ravelrycache.com/uploads/Frankie-Brown/884564171/20_medium.JPG" width="150"/>|[ Christmas Wreath ](https://www.ravelry.com/patterns/library/christmas-wreath-49)| 영어|무료|
 |<img src="https://images4-g.ravelrycache.com/uploads/madder/646249100/webp/DSC_3738_medium.webp#jpg" width="150"/>|[Moose](https://www.ravelry.com/patterns/library/moose-20)| 영어|$7.50 USD|
 |<img src="https://images4-g.ravelrycache.com/flickr/1/1/2/11218352033/11218352033_n.jpg" width="150"/>|[ Woodland Wreath, Holly ](https://www.ravelry.com/patterns/library/woodland-wreath-holly)| 영어|무료|
 |<img src="https://images4-g.ravelrycache.com/flickr/4/1/5/4156543405/4156543405_n.jpg" width="150"/>|[ Knitted Fruit Basket Ornament ](https://www.ravelry.com/patterns/library/knitted-fruit-basket-ornament)| 영어|무료|
