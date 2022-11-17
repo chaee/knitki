@@ -2,7 +2,7 @@
 title: 아란 패턴 아카이브 도안
 description: 너무 방대한 아카이브를 둘러보는 게 지친다면...
 published: true
-date: 2022-11-17T20:01:22.866Z
+date: 2022-11-17T20:03:50.953Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-17T19:51:41.304Z
