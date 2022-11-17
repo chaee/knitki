@@ -2,7 +2,7 @@
 title: 🐑 뜨개 위키에 오신 것을 환영합니다  🌿 
 description: 
 published: true
-date: 2022-11-16T12:37:03.040Z
+date: 2022-11-17T18:20:34.988Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-05T19:59:50.740Z
@@ -15,16 +15,16 @@ dateCreated: 2022-03-05T19:59:50.740Z
 > 뜨개 위키 [디스코드 서버🔗](https://t.co/7pYuDu8yKe) 로도 초대합니다 🎉 
 
 ## 뜨개 위키 101🧵
-- [📖 뜨개 위키에 대하여](https://knitki.herokuapp.com/ko/about)
-- [🔥 뜨개를 시작하는 사람들을 위한 문답](https://knitki.herokuapp.com/ko/welcome)
+- [:telescope: 뜨개 위키에 대하여](https://knitki.herokuapp.com/ko/about)
+- [:fire: 뜨개를 시작하는 사람들을 위한 문답](https://knitki.herokuapp.com/ko/welcome)
 - [🦕 윤리적이고 지속 가능한 뜨개를 위하여](https://knitki.herokuapp.com/ko/sustainability)
 
 ## 뜨개를 하는 데 필요한 것
 - [뜨개 위키가 써보고 추천하는 실 🧶](https://knitki.herokuapp.com/ko/tool/yarn_rec)
 - [뜨개 도구 총정리 🛠️](https://knitki.herokuapp.com/ko/tool)
-- [래벌리에서 한국어 도안 찾는 법 🇰🇷](https://knitki.herokuapp.com/ko/pattern/ravelry_korean)
+- [래벌리에서 한국어 도안 찾는 법 :kr:](https://knitki.herokuapp.com/ko/pattern/ravelry_korean)
 
-<!----[💗 세상을 바꾸는 뜨개](https://knitki.herokuapp.com/ko/knit_for_good)
+<!----[:heartbeat: 세상을 바꾸는 뜨개](https://knitki.herokuapp.com/ko/knit_for_good)
 -->
 <br>
 
@@ -39,10 +39,11 @@ dateCreated: 2022-03-05T19:59:50.740Z
 
 
 ## 무엇을 만들 것인가 🎨
-- [추천하는 대바늘 무료 도안](https://knitki.herokuapp.com/ko/pattern/knitting_patterns)
-- [작고 귀여운 과일, 채소, 동물 도안 🍒](https://knitki.herokuapp.com/ko/pattern/little_sweet_kal)
-- [뜨개구리 만들기 🐸](https://knitki.herokuapp.com/ko/frog)
-- [✨ 크리스마스 장식 🎄](https://knitki.herokuapp.com/ko/pattern/christmas)
-- [✨ 크리스마스 의류 ❄️](https://knitki.herokuapp.com/ko/pattern/christmas_garments)
+- [추천하는 대바늘 무료 도안 :rocket:](https://knitki.herokuapp.com/ko/pattern/knitting_patterns)
+- [작고 귀여운 과일, 채소, 동물 도안 :cherries:](https://knitki.herokuapp.com/ko/pattern/little_sweet_kal)
+- [뜨개구리 만들기 :frog:](https://knitki.herokuapp.com/ko/frog)
+- [✨ 크리스마스 장식 :christmas_tree:](https://knitki.herokuapp.com/ko/pattern/christmas)
+- [✨ 크리스마스 의류 :snowflake:](https://knitki.herokuapp.com/ko/pattern/christmas_garments)
+- [✨ 작고 쉬운 성취감이 필요할 때 :trophy:](https://knitki.herokuapp.com/ko/pattern/small_success)
 
 
