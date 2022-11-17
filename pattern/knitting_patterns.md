@@ -2,7 +2,7 @@
 title: 대바늘 무료 도안
 description: 
 published: true
-date: 2022-11-17T19:16:14.663Z
+date: 2022-11-17T19:18:28.784Z
 tags: 정보, 도안, 레벌리, 무료 도안
 editor: markdown
 dateCreated: 2022-03-05T20:09:16.748Z
@@ -108,7 +108,7 @@ dateCreated: 2022-03-05T20:09:16.748Z
 |<img src="https://images4-f.ravelrycache.com/uploads/Lete/795622115/webp/210713_052_small2.webp#jpg" title="the classic" width="200"/>|[Close To You](https://www.ravelry.com/patterns/library/close-to-you)| Justyna Lorkowska |영어|
 |<img src="https://images4-g.ravelrycache.com/uploads/mintyfresh/48899284/webp/IMG_9496_small2.webp#jpg" title="the classic" width="200"/>|[Echo Flower Shawl](https://www.ravelry.com/patterns/library/echo-flower-shawl)| Jenny Johnson Johnen |영어|
 |<img src="https://images4-f.ravelrycache.com/uploads/EspaceTricot/798225735/webp/IMG_1759_small2.webp#jpg" title="the classic" width="200"/>|[ La Bise ](https://www.ravelry.com/patterns/library/la-bise)| Jenny Johnson Johnen |영어|
-
+|<img src="https://images4-g.ravelrycache.com/uploads/EspaceTricot/791140411/webp/IMG_2827_small2.webp#jpg" title="the classic" width="200"/>|[ Sunday Morning Wrap ](https://www.ravelry.com/patterns/library/sunday-morning-wrap)| Jenny Johnson Johnen |영어|
 
 ## 헤어밴드
 | 사진 | 도안 | 작가 | 지원 언어 |
