@@ -2,7 +2,7 @@
 title: 도안
 description: 
 published: true
-date: 2022-11-16T08:41:28.545Z
+date: 2022-11-17T18:20:56.293Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-12T20:10:06.854Z
@@ -23,3 +23,4 @@ dateCreated: 2022-03-12T20:10:06.854Z
 
 - [크리스마스 장식 🎄](https://knitki.herokuapp.com/ko/pattern/christmas)
 - [크리스마스 의류 ❄️](https://knitki.herokuapp.com/ko/pattern/christmas_garments)
+- [작고 쉬운 성취감이 필요할 때 :trophy:](https://knitki.herokuapp.com/ko/pattern/small_success)
