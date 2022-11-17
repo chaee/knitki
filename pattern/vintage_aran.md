@@ -2,7 +2,7 @@
 title: 아란 패턴 아카이브 도안
 description: 너무 방대한 아카이브를 둘러보는 게 지친다면...
 published: true
-date: 2022-11-17T20:15:18.608Z
+date: 2022-11-17T20:19:20.479Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-17T19:51:41.304Z
@@ -10,6 +10,9 @@ dateCreated: 2022-11-17T19:51:41.304Z
 
 <!--|<img src=""/>|[]()| 영어|무료|-->
 
+<img src="https://aranpatternarchive.com/product_images/apalogo1_1482320357__35801.png" width="150"/> 
+
+이 페이지의 도안들은 [빈티지 아란 패턴 아카이브](https://aranpatternarchive.com/) 도안 중 일부입니다 :-> 위 사이트에서 회원 가입 후 무료 도안을 구매하면 됩니다. 
 
 # 소품
 | 사진 | 도안 | 지원 언어 | 가격|
