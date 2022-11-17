@@ -2,7 +2,7 @@
 title: 작고 쉬운 성취감이 필요할 때
 description: 우리 모두 복잡하지도 너무 오래 걸리지도 않는 무언가를 만들고 싶을 때가 있으니까...
 published: true
-date: 2022-11-17T19:18:52.399Z
+date: 2022-11-17T19:19:20.098Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-17T19:18:52.399Z
@@ -95,6 +95,4 @@ dateCreated: 2022-11-17T19:18:52.399Z
 |<img src="https://images4-g.ravelrycache.com/uploads/kateatherley/586167068/webp/3147109631_4e4e72a524_b_small2.webp#jpg" width="150"/>|[ Basic Ribbed Socks ](https://www.ravelry.com/patterns/library/basic-ribbed-socks)| 영어|무료|
 |<img src="https://images4-g.ravelrycache.com/uploads/snippetsandstash/290683908/webp/DSCF0756_small2.webp#jpg" width="150"/>|[ Simple Skyp Socks ](https://www.ravelry.com/patterns/library/simple-skyp-socks)| 영어|무료|
 |<img src="https://images4-g.ravelrycache.com/uploads/crystaldiva/254027630/webp/DSCF0047_small2.webp#jpg" width="150"/>|[ Petty Harbour ](https://www.ravelry.com/patterns/library/petty-harbour)| 영어|무료|
-|<img src="" width="150"/>|[]()| 영어|무료|
-
 
