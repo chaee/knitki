@@ -2,7 +2,7 @@
 title: 대바늘 무료 도안
 description: 
 published: true
-date: 2022-11-05T21:10:58.578Z
+date: 2022-11-17T19:16:14.663Z
 tags: 정보, 도안, 레벌리, 무료 도안
 editor: markdown
 dateCreated: 2022-03-05T20:09:16.748Z
@@ -10,8 +10,9 @@ dateCreated: 2022-03-05T20:09:16.748Z
 
 
 # 📚 도안 모음
-- 대바늘 뜨개를 시작하는 사람들을 위한 의류 도안 세트: [The Simple Collection](https://tincanknits.com/book/the-simple-collection)
-- [빈티지 아란 패턴 아카이브](https://aranpatternarchive.com/)
+- <img src="https://storage.googleapis.com/tincanknits-server.appspot.com/images/large/native/TheSimpleCollection-TCK.jpg" width="150"/> 대바늘 뜨개를 시작하는 사람들을 위한 의류 도안 세트: [The Simple Collection](https://tincanknits.com/book/the-simple-collection)
+
+- <img src="https://aranpatternarchive.com/product_images/apalogo1_1482320357__35801.png" width="150"/> [빈티지 아란 패턴 아카이브](https://aranpatternarchive.com/)
 
 
 # **📙 개별 도안**
@@ -82,7 +83,7 @@ dateCreated: 2022-03-05T20:09:16.748Z
  |<img src="https://images4-g.ravelrycache.com/uploads/Elliphantom/563610159/webp/544219469_c8e11bd8a1_z_small2.webp#jpg" title="the classic" width="200"/>|[ Squirrelly Swedish Mittens](https://www.ravelry.com/patterns/library/squirrelly-swedish-mittens) |Elli Stubenrauch| 영어|
  |<img src="https://images4-g.ravelrycache.com/uploads/inesesang/483427612/webp/TiildaMittens01_small2.webp#jpg" title="the classic" width="200"/>|[Tiilda Mittens](https://www.ravelry.com/patterns/library/tiilda-mittens) |Inese Sang| 영어|
  |<img src="https://images4-f.ravelrycache.com/uploads/yarnmonster/522796810/webp/356460784_3b871e5b4f_b_small2.webp#jpg" title="the classic" width="200"/>|[Endpaper Mitts](https://www.ravelry.com/patterns/library/endpaper-mitts) |Eunny Jang | 영어|
- 
+  |<img src="https://images4-g.ravelrycache.com/uploads/EspaceTricot/821828752/webp/mittens_front_small2.webp#jpg" title="the classic" width="200"/>|[ Arcade Mittens ]( https://www.ravelry.com/patterns/library/arcade-mittens) |Espace Tricot | 영어, 프랑스어|
 
 ## 반다나 / 쁘띠 스카프
 | 사진 | 도안 | 작가 | 지원 언어 |
@@ -102,30 +103,31 @@ dateCreated: 2022-03-05T20:09:16.748Z
 ## 숄
 | 사진 | 도안 | 작가 | 지원 언어 |
 |--- |--- | --- | ---|
-|<img src="" title="the classic" width="200"/>|[Haruni](https://www.ravelry.com/patterns/library/haruni)| Emily Ross |영어, 덴마크어, 네덜란드어, 핀란드어, 프랑스어, 독일어, 아이슬란드어 ,이탈리아어, 폴란드어, 포르투갈어, 스페인어,스웨덴어 |
-|<img src="" title="the classic" width="200"/>|[Citron](https://www.ravelry.com/patterns/library/citron)| Hilary Smith Callis |영어|
-|<img src="" title="the classic" width="200"/>|[Close To You](https://www.ravelry.com/patterns/library/close-to-you)| Justyna Lorkowska |영어|
-|<img src="" title="the classic" width="200"/>|[Echo Flower Shawl](https://www.ravelry.com/patterns/library/echo-flower-shawl)| Jenny Johnson Johnen |영어|
+|<img src="https://images4-g.ravelrycache.com/uploads/knitterain/419099974/webp/001-haruni-wingspan-036-23-web-2048_small2.webp#jpg" title="the classic" width="200"/>|[Haruni](https://www.ravelry.com/patterns/library/haruni)| Emily Ross |영어, 덴마크어, 네덜란드어, 핀란드어, 프랑스어, 독일어, 아이슬란드어 ,이탈리아어, 폴란드어, 포르투갈어, 스페인어,스웨덴어 |
+|<img src="https://images4-g.ravelrycache.com/flickr/4/1/8/4185481406/4185481406_n.jpg" title="the classic" width="200"/>|[Citron](https://www.ravelry.com/patterns/library/citron)| Hilary Smith Callis |영어|
+|<img src="https://images4-f.ravelrycache.com/uploads/Lete/795622115/webp/210713_052_small2.webp#jpg" title="the classic" width="200"/>|[Close To You](https://www.ravelry.com/patterns/library/close-to-you)| Justyna Lorkowska |영어|
+|<img src="https://images4-g.ravelrycache.com/uploads/mintyfresh/48899284/webp/IMG_9496_small2.webp#jpg" title="the classic" width="200"/>|[Echo Flower Shawl](https://www.ravelry.com/patterns/library/echo-flower-shawl)| Jenny Johnson Johnen |영어|
+|<img src="https://images4-f.ravelrycache.com/uploads/EspaceTricot/798225735/webp/IMG_1759_small2.webp#jpg" title="the classic" width="200"/>|[ La Bise ](https://www.ravelry.com/patterns/library/la-bise)| Jenny Johnson Johnen |영어|
 
 
 ## 헤어밴드
 | 사진 | 도안 | 작가 | 지원 언어 |
 |--- |--- | --- | ---|
-|<img src="" title="the classic" width="200"/>|[Headband with a twist](https://www.ravelry.com/patterns/library/headband-with-a-twist-5)| Mirella Moments |영어|
+|<img src="https://images4-g.ravelrycache.com/uploads/MirellaMoments/810564662/webp/Headband-twist-knitting-pattern_small2.webp#jpg" title="the classic" width="200"/>|[Headband with a twist](https://www.ravelry.com/patterns/library/headband-with-a-twist-5)| Mirella Moments |영어|
 
 
 ## 인형
 | 사진 | 도안 | 작가 | 지원 언어 | 비고 |
 |--- |--- | --- | ---| ---|
-|<img src="" title="the classic" width="200"/>|[Bluebird of Happiness](https://www.ravelry.com/patterns/library/bluebird-of-happiness-4)| Sara Elizabeth Kellner|영어, 네덜란드어|파랑새|
-|<img src="" title="the classic" width="200"/>|[Tiny Window Cat](https://www.ravelry.com/patterns/library/tiny-window-cat)| Sara Elizabeth Kellner|영어|작은 고양이|
-|<img src="" title="the classic" width="200"/>|[Snowbird](https://www.ravelry.com/patterns/library/snowbird-6)| Sara Elizabeth Kellner|영어|작은 새|
-|<img src="" title="the classic" width="200"/>|[Spring Robin](https://www.ravelry.com/patterns/library/spring-robin)| Sara Elizabeth Kellner|영어|로빈|
-|<img src="" title="the classic" width="200"/>|[Henry's Bunny](https://www.ravelry.com/patterns/library/henrys-bunny)| Sara Elizabeth Kellner|영어, 프랑스어|작은 토끼|
-|<img src="" title="the classic" width="200"/>|[The Parlor Cat](https://www.ravelry.com/patterns/library/the-parlor-cat)| Sara Elizabeth Kellner|영어|엎드린 고양이|
-|<img src="" title="the classic" width="200"/>|[The Window Cat](https://www.ravelry.com/patterns/library/the-window-cat)| Sara Elizabeth Kellner|영어|창가의 고양이|
-|<img src="" title="the classic" width="200"/>|[Babar](https://www.ravelry.com/patterns/library/babar)| Sara Elizabeth Kellner|영어|코끼리 임금님|
-|<img src="" title="the classic" width="200"/>|[Sheldon](https://www.ravelry.com/patterns/library/sheldon)| Sara Ruth Homrighaus |영어|거북이|
-|<img src="" title="the classic" width="200"/>|[Elephante](https://www.ravelry.com/patterns/library/elefante)|Susan B. Anderson |영어|아기 코끼리|
+|<img src="https://images4-g.ravelrycache.com/uploads/saraek/293892913/webp/034_small2_medium_medium_small2.webp#JPG" title="the classic" width="200"/>|[Bluebird of Happiness](https://www.ravelry.com/patterns/library/bluebird-of-happiness-4)| Sara Elizabeth Kellner|영어, 네덜란드어|파랑새|
+|<img src="https://images4-g.ravelrycache.com/uploads/saraek/413567615/webp/051_small2.webp#JPG" title="the classic" width="200"/>|[Tiny Window Cat](https://www.ravelry.com/patterns/library/tiny-window-cat)| Sara Elizabeth Kellner|영어|작은 고양이|
+|<img src="https://images4-f.ravelrycache.com/uploads/saraek/814521361/webp/IMG_0988_small2.webp#jpeg" title="the classic" width="200"/>|[Snowbird](https://www.ravelry.com/patterns/library/snowbird-6)| Sara Elizabeth Kellner|영어|작은 새|
+|<img src="https://images4-f.ravelrycache.com/uploads/saraek/179942607/2_small2.jpg" title="the classic" width="200"/>|[Spring Robin](https://www.ravelry.com/patterns/library/spring-robin)| Sara Elizabeth Kellner|영어|로빈|
+|<img src="https://images4-f.ravelrycache.com/uploads/saraek/179842575/030_small2.JPG" title="the classic" width="200"/>|[Henry's Bunny](https://www.ravelry.com/patterns/library/henrys-bunny)| Sara Elizabeth Kellner|영어, 프랑스어|작은 토끼|
+|<img src="https://images4-g.ravelrycache.com/uploads/saraek/192883686/webp/010_small2_small2_small2.webp#JPG" title="the classic" width="200"/>|[The Parlor Cat](https://www.ravelry.com/patterns/library/the-parlor-cat)| Sara Elizabeth Kellner|영어|엎드린 고양이|
+|<img src="https://images4-g.ravelrycache.com/uploads/MargaretsFog/451893051/webp/IMG_3193_small2.webp#JPG" title="the classic" width="200"/>|[The Window Cat](https://www.ravelry.com/patterns/library/the-window-cat)| Sara Elizabeth Kellner|영어|창가의 고양이|
+|<img src="https://images4-f.ravelrycache.com/uploads/saraek/170477079/webp/048_small2.webp#JPG" title="the classic" width="200"/>|[Babar](https://www.ravelry.com/patterns/library/babar)| Sara Elizabeth Kellner|영어|코끼리 임금님|
+|<img src="https://images4-g.ravelrycache.com/uploads/casey/153936026/webp/www.knitty.com-sheldonbeauty_small2.webp#jpg" title="the classic" width="200"/>|[Sheldon](https://www.ravelry.com/patterns/library/sheldon)| Sara Ruth Homrighaus |영어|거북이|
+|<img src="https://images4-f.ravelrycache.com/uploads/knittingelephant/523045376/webp/1745876832_b312ec83f1_b_small2.webp#jpg" title="the classic" width="200"/>|[Elephante](https://www.ravelry.com/patterns/library/elefante)|Susan B. Anderson |영어|아기 코끼리|
 
  
