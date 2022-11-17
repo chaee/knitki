@@ -2,7 +2,7 @@
 title: 작고 쉬운 성취감이 필요할 때
 description: 우리 모두 복잡하지도 너무 오래 걸리지도 않는 무언가를 만들고 싶을 때가 있으니까...
 published: true
-date: 2022-11-17T19:19:20.098Z
+date: 2022-11-17T19:20:53.469Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-17T19:18:52.399Z
