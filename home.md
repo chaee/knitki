@@ -2,7 +2,7 @@
 title: 🐑 뜨개 위키에 오신 것을 환영합니다  🌿 
 description: 
 published: true
-date: 2022-11-17T18:20:34.988Z
+date: 2022-11-17T20:16:37.609Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-05T19:59:50.740Z
@@ -45,5 +45,6 @@ dateCreated: 2022-03-05T19:59:50.740Z
 - [✨ 크리스마스 장식 :christmas_tree:](https://knitki.herokuapp.com/ko/pattern/christmas)
 - [✨ 크리스마스 의류 :snowflake:](https://knitki.herokuapp.com/ko/pattern/christmas_garments)
 - [✨ 작고 쉬운 성취감이 필요할 때 :trophy:](https://knitki.herokuapp.com/ko/pattern/small_success)
-
+- [✨ 아란 빈티지 패턴 아카이브 :ireland:](https://knitki.herokuapp.com/ko/pattern/vintage_aran
+)
 
