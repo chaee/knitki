@@ -2,7 +2,7 @@
 title: 크리스마스 준비
 description: 크리스마스 무렵에 생각나는 도안
 published: true
-date: 2022-11-16T13:09:56.568Z
+date: 2022-11-18T13:58:07.580Z
 tags: 크리스마스, 트리, 양말, 선물, 월동준비, 어드벤트
 editor: markdown
 dateCreated: 2022-11-11T18:36:21.614Z
@@ -66,6 +66,7 @@ dateCreated: 2022-11-11T18:36:21.614Z
 |<img src="https://images4-f.ravelrycache.com/uploads/knittinghutSue/264333818/webp/Bunting_pic_2_medium.webp#jpeg" width="150"/>|[ Mini Christmas Jumper Bunting ](https://www.ravelry.com/patterns/library/mini-christmas-jumper-bunting)| 영어|무료|
 |<img src="https://images4-g.ravelrycache.com/uploads/mimknits/589084989/webp/TinySweaters1_medium.webp#JPG" width="150"/>|[ Tiny Sweaters ](https://www.ravelry.com/patterns/library/tiny-sweaters-2)| 영어|무료|
 |<img src="https://images4-g.ravelrycache.com/flickr/4/1/0/4104739244/4104739244.jpg" width="150"/>|[ Mini Sweater Ornament with Cables ](https://www.ravelry.com/patterns/library/mini-sweater-ornament-with-cables)| 영어|무료|
+|<img src="https://images4-f.ravelrycache.com/uploads/lenabergsman/842761300/webp/topsy_alla_4_medium.webp#jpg" width="150"/>|[Kattkofta ](https://www.ravelry.com/patterns/library/kattkofta)| 영어|무료|
 |<img src="https://images4-f.ravelrycache.com/uploads/maliamae/664012661/webp/tiny_sweaters_02_medium.webp#JPG" width="150"/>|[ Tiny Sweaters ](https://www.ravelry.com/patterns/library/tiny-sweaters)| 영어|무료|
 |<img src="https://images4-f.ravelrycache.com/uploads/CherylN/565422415/webp/2099521563_8dfc4cc7e0_z_small2.webp#jpg" width="150"/>|[ Cheers! ](https://www.ravelry.com/patterns/library/cheers)| 영어|무료|
 |<img src="https://images4-g.ravelrycache.com/flickr/6/1/3/6132648023/6132648023_n.jpg" width="150"/>|[ Minilopapeysa Keyring ](https://www.ravelry.com/patterns/library/minilopapeysa-keyring)| 영어|무료|
