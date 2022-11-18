@@ -2,7 +2,7 @@
 title: 크리스마스 준비
 description: 크리스마스 무렵에 생각나는 도안
 published: true
-date: 2022-11-18T13:58:07.580Z
+date: 2022-11-18T14:07:28.642Z
 tags: 크리스마스, 트리, 양말, 선물, 월동준비, 어드벤트
 editor: markdown
 dateCreated: 2022-11-11T18:36:21.614Z
