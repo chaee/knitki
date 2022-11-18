@@ -1,6 +1,7 @@
-# Archive for the knitting kiki (https://knitki.herokuapp.com) // 뜨개 위키 저장소
-## knitting wiki is an open-source wiki for knitting 📖
+# Archive for the knitting wiki (https://knitki.herokuapp.com)
+knitting wiki is an open-source wiki for knitting 📖
 
+## 뜨개 위키 저장소
 ### knitting wiki Manifesto 🐑 뜨개 위키에 대하여
     1. 뜨개 위키는 기술 활용 능력, 구매력, 언어 구사 능력에 구애받지 않고 뜨개에 관한 지식과 경험을 나눌 수 있는 공간을 지향합니다.  
 
