@@ -2,7 +2,7 @@
 title: 크리스마스 준비
 description: 크리스마스 무렵에 생각나는 도안
 published: true
-date: 2022-11-18T14:07:28.642Z
+date: 2022-12-03T16:15:11.098Z
 tags: 크리스마스, 트리, 양말, 선물, 월동준비, 어드벤트
 editor: markdown
 dateCreated: 2022-11-11T18:36:21.614Z
@@ -55,7 +55,7 @@ dateCreated: 2022-11-11T18:36:21.614Z
 |--- |--- | --- |--- | 
 |<img src="https://images4-f.ravelrycache.com/uploads/KelbourneWoolens/415129610/webp/holiday_ornaments-1_medium.webp#jpg" width="150"/>|[ Holiday Cheer Ornaments ](https://www.ravelry.com/patterns/library/holiday-cheer-ornaments-2)| 영어|무료|
 |<img src="https://images4-g.ravelrycache.com/uploads/lnore01/196719374/webp/garland01_medium.webp#jpg" width="150"/>|[ Santa's Laundry Line ](https://www.ravelry.com/patterns/library/santas-laundry-line)| 영어|무료|
-|<img src="https://images4-g.ravelrycache.com/uploads/susanbanderson/485886064/webp/fullsizeoutput_a49_medium.webp#jpeg" width="150"/>|[ Holiday Charm Set ](https://www.ravelry.com/patterns/library/holiday-charm-set)| 영어|무료|
+|<img src="https://images4-g.ravelrycache.com/uploads/susanbanderson/485886064/webp/fullsizeoutput_a49_medium.webp#jpeg" width="150"/>|[ Holiday Charm Set ](https://www.ravelry.com/patterns/library/holiday-charm-set)| 영어|USD 6$|
 |<img src="https://images4-f.ravelrycache.com/uploads/susanbanderson/586932362/Screen_Shot_2018-11-23_at_5.17.30_PM_small2.png" width="150"/>|[ Little Long Johns ](https://www.ravelry.com/patterns/library/little-long-johns)| 영어|USD 5$|
 
 
