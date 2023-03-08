@@ -2,7 +2,7 @@
 title: 양 무늬가 들어가는 도안
 description: 
 published: true
-date: 2023-03-08T19:09:57.861Z
+date: 2023-03-08T19:14:31.809Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-08T19:08:29.981Z
@@ -58,6 +58,8 @@ dateCreated: 2023-03-08T19:08:29.981Z
 |<img src="https://images4-g.ravelrycache.com/flickr/7/1/8/7186083709/7186083709_n.jpg" width="150"/>|[Sheep Carousel](https://www.ravelry.com/patterns/library/sheep-carousel)|영어|£5.00 GBP|
 |<img src="https://images4-g.ravelrycache.com/uploads/knittingnesa/133809171/webp/sheepcosies_small2.webp#JPG" width="150"/>|[ Sheep Cosies ](https://www.ravelry.com/patterns/library/sheep-cosies)|영어|무료|
 |<img src="https://images4-f.ravelrycache.com/uploads/FlutterLou298/512538766/webp/Screen_Shot_2018-03-27_at_12.35.51_small2.webp#png" width="150"/>|[ Sheep farm friends keyring ](https://www.ravelry.com/patterns/library/sheep-farm-friends-keyring)|영어|무료|
+|<img src="https://images4-g.ravelrycache.com/uploads/Lisacraft93CA/811239044/IMG_0575_small.JPG" width="150"/>|[ Sheep Airpods 1 2 Case](https://www.ravelry.com/patterns/library/sheep-airpods-1-2-case)|영어|C$2.95 CAD|
+
 
 
 
