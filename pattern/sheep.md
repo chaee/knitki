@@ -2,7 +2,7 @@
 title: 양 무늬가 들어가는 도안
 description: 
 published: true
-date: 2023-03-08T19:08:29.981Z
+date: 2023-03-08T19:09:57.861Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-08T19:08:29.981Z
@@ -44,7 +44,7 @@ dateCreated: 2023-03-08T19:08:29.981Z
 |<img src="https://images4-g.ravelrycache.com/uploads/toast543/373221592/webp/image_small2.webp#jpeg" width="150"/>|[Sheep Blankie](https://www.ravelry.com/patterns/library/sheep-blankie)|영어|$11.89 USD (해당 도안 포함 이북)|
 |<img src="https://images4-g.ravelrycache.com/uploads/TrustTheMojo/760910053/A5DC922A-0B93-43F3-9165-9DB9BD97E4C6_small.JPG" width="150"/>|[ Baby sheep blanket ](https://www.ravelry.com/patterns/library/baby-sheep-blanket)|영어|€8.00 EUR|
 |<img src="https://images4-f.ravelrycache.com/uploads/elenadragon/512202253/webp/IMG_1793_web_small2.webp#jpg" width="150"/>|[ Counting Sheep Blanket ](https://www.ravelry.com/patterns/library/counting-sheep-blanket-3)|영어|$11.89 USD|
-|<img src="https://images4-g.ravelrycache.com/uploads/DennyDesigns/698030561/IMG_20200304_112224__2020_03_27_15_07_41_UTC__small.jpg" width="150"/>|[ Sheep in a Row Pillow ](https://www.ravelry.com/patterns/library/sheep-in-a-row-pillow)|영어|무료|
+|<img src="https://images4-g.ravelrycache.com/uploads/DennyDesigns/698030561/IMG_20200304_112224__2020_03_27_15_07_41_UTC__small.jpg" width="150"/>|[ Sheep in a Row Pillow ](https://www.ravelry.com/patterns/library/sheep-in-a-row-pillow)|영어|£5.00 GBP|
 |<img src="https://images4-g.ravelrycache.com/flickr/8/5/2/8523590017/8523590017_n.jpg" width="150"/>|[ Bobble Sheep Pillow in Super Soft Merino ](https://www.ravelry.com/patterns/library/bobble-sheep-pillow-in-super-soft-merino)|영어|무료|
 |<img src="https://images4-f.ravelrycache.com/uploads/nanascraftyhome/721563086/webp/Sheep_Blanket_2_small2.webp#jpg" width="150"/>|[ Sheep Granny Square Blanket ](https://www.ravelry.com/patterns/library/sheep-granny-square-blanket)|영어 (코바늘)| $4.17 USD |
 |<img src="https://images4-g.ravelrycache.com/uploads/DennyDesigns/646409455/webp/DSC_8553-2_small2.webp#jpg" width="150"/>|[ Aran Flock of Sheep Cushion ](https://www.ravelry.com/patterns/library/aran-flock-of-sheep-cushion)|영어|£5.00 GBP|
