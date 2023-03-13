@@ -2,7 +2,7 @@
 title: 🐑 뜨개 위키에 오신 것을 환영합니다  🌿 
 description: 
 published: true
-date: 2023-03-08T18:29:38.112Z
+date: 2023-03-13T15:42:48.047Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-05T19:59:50.740Z
@@ -40,11 +40,17 @@ dateCreated: 2022-03-05T19:59:50.740Z
 
 
 ## 무엇을 만들 것인가 🎨
+:bulb:
 - [추천하는 대바늘 무료 도안 :rocket:](https://knitki.herokuapp.com/ko/pattern/knitting_patterns)
+- [아란 빈티지 패턴 아카이브 :ireland:](https://knitki.herokuapp.com/ko/pattern/vintage_aran)
+- [작고 쉬운 성취감이 필요할 때 :trophy:](https://knitki.herokuapp.com/ko/pattern/small_success)
+
+:apple:
 - [작고 귀여운 과일, 채소, 동물 도안 :cherries:](https://knitki.herokuapp.com/ko/pattern/little_sweet_kal)
 - [뜨개구리 만들기 :frog:](https://knitki.herokuapp.com/ko/frog)
+- [양 무늬 도안 :sheep:](https://knitki.herokuapp.com/ko/pattern/sheep)
+- [다람쥐, 도토리, 참나무 무늬 도안 🐿️](https://knitki.herokuapp.com/ko/pattern/squirrel_oak)
+
+:santa: 
 - [크리스마스 장식 :christmas_tree:](https://knitki.herokuapp.com/ko/pattern/christmas)
 - [크리스마스 의류 :snowflake:](https://knitki.herokuapp.com/ko/pattern/christmas_garments)
-- [작고 쉬운 성취감이 필요할 때 :trophy:](https://knitki.herokuapp.com/ko/pattern/small_success)
-- [아란 빈티지 패턴 아카이브 :ireland:](https://knitki.herokuapp.com/ko/pattern/vintage_aran)
-- [양무늬 도안 :sheep:](https://knitki.herokuapp.com/ko/pattern/sheep)
