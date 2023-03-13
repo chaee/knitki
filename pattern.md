@@ -2,7 +2,7 @@
 title: 도안
 description: 
 published: true
-date: 2022-11-18T13:56:48.825Z
+date: 2023-03-13T15:50:38.359Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-12T20:10:06.854Z
@@ -19,11 +19,20 @@ dateCreated: 2022-03-12T20:10:06.854Z
 # 주제별 도안 모음
 - [자투리 실 사용하는 대바늘 도안](https://knitki.herokuapp.com/ko/pattern/stash_busting_knitting)
 
-- [작고 귀여운 동물, 과일, 채소 도안](https://knitki.herokuapp.com/ko/pattern/little_sweet_kal)
-
-- [크리스마스 장식 🎄](https://knitki.herokuapp.com/ko/pattern/christmas)
-- [크리스마스 의류 ❄️](https://knitki.herokuapp.com/ko/pattern/christmas_garments)
+**:bulb: 무료 도안 모음**
+- [추천하는 대바늘 무료 도안 :rocket:](https://knitki.herokuapp.com/ko/pattern/knitting_patterns)
+- [아란 빈티지 패턴 아카이브 :ireland:](https://knitki.herokuapp.com/ko/pattern/vintage_aran)
 - [작고 쉬운 성취감이 필요할 때 :trophy:](https://knitki.herokuapp.com/ko/pattern/small_success)
+
+**:apple: 주제별 도안 모음**
+- [작고 귀여운 과일, 채소, 동물 도안 :cherries:](https://knitki.herokuapp.com/ko/pattern/little_sweet_kal)
+- [뜨개구리 만들기 :frog:](https://knitki.herokuapp.com/ko/frog)
+- [양 무늬 도안 :sheep:](https://knitki.herokuapp.com/ko/pattern/sheep)
+- [다람쥐, 도토리, 참나무 무늬 도안 :chipmunk:](https://knitki.herokuapp.com/ko/pattern/squirrel_oak)
+
+**:santa::christmas_tree::snowflake: 연례 행사 맞이 도안 모음**
+- [크리스마스 장식 :christmas_tree:](https://knitki.herokuapp.com/ko/pattern/christmas)
+- [크리스마스 의류 :snowflake:](https://knitki.herokuapp.com/ko/pattern/christmas_garments)
 
 # 레시피/튜토리얼
 - [탑다운 스웨터](https://www.ravelry.com/patterns/library/improv)
