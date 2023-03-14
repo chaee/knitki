@@ -2,12 +2,13 @@
 title: 뜨개 브이로그
 description: 
 published: true
-date: 2023-03-14T13:10:33.528Z
+date: 2023-03-14T13:23:09.618Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-14T13:10:33.528Z
 ---
 
+# 한국어
 [고뜨브](https://www.youtube.com/@Ko_knitter)
 [방구석 코실이](https://www.youtube.com/@kosil_knittingroom)
 [지온 jioknits](https://www.youtube.com/@jioknits)
@@ -31,14 +32,38 @@ dateCreated: 2023-03-14T13:10:33.528Z
 [ KNIT ISLAND](https://www.youtube.com/@knitisland738)
 [ 닐라 Nila knitting](https://www.youtube.com/@nilaknitting3834)
 [ yarn bar](https://www.youtube.com/@yarnbar1111)
-[ 은곰 daily knittinger
-](https://www.youtube.com/@dailyknittinger6722)
-[]()
-[]()
-[]()
-[]()
-[AlexandrasGarn]( )
+[ 은곰 daily knittinger](https://www.youtube.com/@dailyknittinger6722)
+[ 오늘니트 ](https://www.youtube.com/@oneulknit)
+[ 이불속에고양이 뜨개방](https://www.youtube.com/@user-hu4zq5ms9u)
+[ 사이상점saimarket knitting & crochet](https://www.youtube.com/@saimarketknittingcrochet)
+[ knitsbychaerry 채리](https://www.youtube.com/@knitsbychaerry)
+[ Knits pour moi](https://www.youtube.com/@AtelierLoulou)
+[ 어쭈구리 니팅 Dancing Bear Knits](https://www.youtube.com/@dancingbearknits)
+
+# 영어
+[ ARNE & CARLOS](https://www.youtube.com/@ARNECARLOS)
+[ knits and notions](https://www.youtube.com/@knitsandnotions)
+[ Emma Robinson](https://www.youtube.com/@woollymammothfibres)
+[ woollentwine](https://www.youtube.com/@woollentwine)
+[ Henri Purnell](https://www.youtube.com/@HenriPurnell)
+[ Creabea Knitting Podcast](https://www.youtube.com/@the.creabea)
+[ Cabin Boy Knits](https://www.youtube.com/@cabinboyknits1816)
+[ The Crimson Stitchery](https://www.youtube.com/@TheCrimsonStitchery)
+[ the gentle knitter](https://www.youtube.com/@thegentleknitter)
+[ Full Hands](https://www.youtube.com/@fullhands3167)
+[ Little Big Knits](https://www.youtube.com/@littlebigknits)
+[ Hawthorn Cottage Craft](https://www.youtube.com/@HawthornCottageCraft)
+[ Sopranoknits](https://www.youtube.com/@Sopranoknits)
+[ Anna Sjösvärd](https://www.youtube.com/@annasjosvard8537)
+[ Andrea Mowry](https://www.youtube.com/@dreareneeknits)
+[ Stitched in Sweden](https://www.youtube.com/@StitchedinSweden)
+[ popsicle frog knits](https://www.youtube.com/@popsiclefrogknits2024)
+[ Mandarine's](https://www.youtube.com/@Mandarines)
+[ Emily Curtis](https://www.youtube.com/@emweecurt)
+[ Cozy Cardigans (Mel of Big Little Yarn Co.)](https://www.youtube.com/@MelanieAsato)
+[AlexandrasGarn]( https://www.youtube.com/@alexandrasgarn)
 [ Kutovakika](https://www.youtube.com/@Kutovakika)
 [ Sari Nordlund ](https://www.youtube.com/@SariNordlund)
 [ Brontë Swannick ](https://www.youtube.com/@bronteswannick)
-[https://www.youtube.com/@JennaPhipps](https://www.youtube.com/@JennaPhipps)
+[Jenna Phipps](https://www.youtube.com/@JennaPhipps)
+[ Orsa Knits](https://www.youtube.com/@OrsaKnits)
