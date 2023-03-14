@@ -2,7 +2,7 @@
 title: 🐑 뜨개 위키에 오신 것을 환영합니다  🌿 
 description: 
 published: true
-date: 2023-03-14T11:13:33.235Z
+date: 2023-03-14T11:24:44.354Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-05T19:59:50.740Z
@@ -34,6 +34,7 @@ dateCreated: 2022-03-05T19:59:50.740Z
 
 ## 뜨개 하는 방법 
 - [대바늘 기법 영상 🔍](https://knitki.herokuapp.com/ko/skill/tutorials)
+- [코바늘 기법 영상](/skill/crochet)
 - [대바늘 규격 변환표 🔱](https://knitki.herokuapp.com/ko/tool/needle_size_conversion)
 - [타래실 감는 방법](https://knitki.herokuapp.com/ko/hank_to_ball)
 
