@@ -2,7 +2,7 @@
 title: 뜨개 도안 만들기
 description: 
 published: true
-date: 2023-03-14T11:37:06.293Z
+date: 2023-03-14T11:37:32.581Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-14T11:32:35.940Z
@@ -12,5 +12,5 @@ dateCreated: 2023-03-14T11:32:35.940Z
 - [Stitchworks Software](http://stitchworkssoftware.com/)
 - [Stitch Fiddle](https://www.stitchfiddle.com/en)
 
-# 가이드(?)
+# 스웨터 디자인
 - [Sari Nordlund의 Sweater Chronicles Series](https://www.youtube.com/playlist?list=PLpQPtxDXBPsVJDwxCZavgl-S8opSKZZvL)
