@@ -1,8 +1,8 @@
 ---
 title: 뜨개 브이로그
-description: 
+description: 뜨개 브이로그 보면서 뜨개 하고 싶으니까...
 published: true
-date: 2023-03-14T13:23:09.618Z
+date: 2023-03-14T13:24:10.588Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-14T13:10:33.528Z
