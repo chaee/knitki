@@ -2,7 +2,7 @@
 title: 🐑 뜨개 위키에 오신 것을 환영합니다  🌿 
 description: 
 published: true
-date: 2023-03-14T11:25:47.848Z
+date: 2023-03-14T11:38:37.123Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-05T19:59:50.740Z
@@ -55,3 +55,7 @@ dateCreated: 2022-03-05T19:59:50.740Z
 **:santa::christmas_tree::snowflake: 연례 행사 맞이 도안 모음**
 - [크리스마스 장식 :christmas_tree:](https://knitki.herokuapp.com/ko/pattern/christmas)
 - [크리스마스 의류 :snowflake:](https://knitki.herokuapp.com/ko/pattern/christmas_garments)
+
+
+## 뜨개 도안을 직접 만들어보고 싶다면!
+[뜨개 도안 만들기](/pattern/make_pattern)
