@@ -2,7 +2,7 @@
 title: 뜨개 도안 만들기
 description: 
 published: true
-date: 2023-03-14T11:45:16.435Z
+date: 2023-03-18T20:36:32.413Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-14T11:32:35.940Z
@@ -12,7 +12,8 @@ dateCreated: 2023-03-14T11:32:35.940Z
 - [Stitchworks Software](http://stitchworkssoftware.com/)
 - [Stitch Fiddle](https://www.stitchfiddle.com/en)
 
-
+## 래글런 스웨터 만드는 퍼센티지 시스템 (KnittingFool.com)
+[ Simple Worked-From-The-Top Raglan Pullover Pattern Calculated by the Percentage Method](http://www.knittingfool.com/SweaterPatterns/TopDownRaglanPullover.aspx)
 
 ## 스웨터 디자인해서 도안으로 발행하기
 - [Sari Nordlund의 Sweater Chronicles Series](https://www.youtube.com/playlist?list=PLpQPtxDXBPsVJDwxCZavgl-S8opSKZZvL)
