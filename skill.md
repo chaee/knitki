@@ -2,7 +2,7 @@
 title: 뜨개의 기술
 description: 
 published: true
-date: 2022-03-13T13:20:59.548Z
+date: 2023-03-30T12:32:47.968Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-12T20:15:30.963Z
@@ -12,6 +12,14 @@ dateCreated: 2022-03-12T20:15:30.963Z
 뜨개라는 행위 자체에 대한 지식과 정보
 - [뜨개 기법 영상](https://knitki.herokuapp.com/ko/skill/tutorials)
 - [뜨개 약어](https://knitki.herokuapp.com/ko/skill/abbreviations)
+
+## 원통 뜨기
+소매나 목둘레, 양말, 모자 등을 뜰 때 사용하는 원통뜨기를 하는 방법
+1. 떠야 하는 편물 길이보다 약간 짧은 바늘로 원형 뜨기 [영상](https://www.youtube.com/watch?v=mO-w_N5CFZk)
+1. 80cm 이상 되는 길이의 줄바늘로 매직루프 기법 사용하기 [영상](https://www.youtube.com/watch?v=1mqIqRdJc68)
+2. 장갑바늘 사용하기 [영상](https://www.youtube.com/watch?v=s0LkNM2ojZA)
+3. 줄바늘 두 개로 원통뜨기 하기 [영상](https://www.youtube.com/watch?v=eXFvCuYkWQQ) [블로그](https://www.thesprucecrafts.com/knitting-in-the-round-with-two-circular-needles-2116396)
+
 
 ## 스웨터 뜨기
 - [넥밴드 & 소매 줍기 할 때 팁](https://twitter.com/korikoknit/status/1502894650612326403?s=20&t=04Hd9deqNw1EmxV-w9cQXA)
