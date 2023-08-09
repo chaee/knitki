@@ -2,7 +2,7 @@
 title: 코바늘 육각형 가디건
 description: 육각형 두 개만 만들면 가디건이 된다
 published: true
-date: 2023-08-09T08:35:50.309Z
+date: 2023-08-09T08:42:33.209Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-09T08:35:50.309Z
@@ -15,11 +15,18 @@ dateCreated: 2023-08-09T08:35:50.309Z
 
 ## 영상 도안 Video Tutorial
 - [Kenikse Crochet 영상 튜토리얼](https://youtu.be/zsphNGouDXU)
+
 ## 래벌리 도안 Ravelry Pattern
 
 1. Hexagon Blanket Cardigan by Svetlana Gibadullina
 - [래벌리 링크](https://www.ravelry.com/patterns/library/hexagon-blanket-cardigan) 
 - [무료 도안이 실린 블로그](https://vetkaknit.wordpress.com/2023/08/06/hexagon-blanket-cardigan-free-crochet-pattern/)
 
+2. [Easy Crochet Classic Granny Hexagon Cardigan
+by Heather Brooke ](https://www.ravelry.com/patterns/library/easy-crochet-classic-granny-hexagon-cardigan)
+
+3. [Day Date Cardigan ](https://www.ravelry.com/patterns/library/day-date-cardigan)
 이 외에도 다양한 무료 버전이 온라인에 있으니 좋은 도안이나 튜토리얼을 발견하면 제보 부탁드려요 :)
 
+### 보고 예쁘다고 생각한 버전들
+- [Jenna Phipps 유투브 (도안 없음)](https://youtu.be/nz6duDWNQd0)
