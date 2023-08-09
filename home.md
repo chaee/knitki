@@ -2,7 +2,7 @@
 title: 🐑 뜨개 위키에 오신 것을 환영합니다  🌿 
 description: 
 published: true
-date: 2023-08-09T08:29:04.748Z
+date: 2023-08-09T08:29:20.393Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-05T19:59:50.740Z
@@ -48,7 +48,7 @@ dateCreated: 2022-03-05T19:59:50.740Z
 
 **:sparkle: 장안의 화제가 된 도안 모음**
 - [뜨개구리 만들기 :frog:](https://knitki.herokuapp.com/ko/frog)
-- [코바늘 육각형 가디건 만들기](https://knitki.herokuapp.com/ko/crochet_hexagon)
+- [코바늘 육각형 가디건 만들기](https://knitki.herokuapp.com/ko/pattern/crochet_hexagon)
 
 **:apple: 주제별 도안 모음**
 - [작고 귀여운 과일, 채소, 동물 도안 :cherries:](https://knitki.herokuapp.com/ko/pattern/little_sweet_kal)
