@@ -2,7 +2,7 @@
 title: 뜨개 외 섬유 공예
 description: 
 published: true
-date: 2023-08-12T12:27:41.016Z
+date: 2023-08-12T12:27:55.264Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-12T12:27:41.016Z
@@ -24,3 +24,5 @@ dateCreated: 2023-08-12T12:27:41.016Z
 [실 잣기3(색스니 물레와 정방기) : 네이버 블로그](https://m.blog.naver.com/bryoco/222917393985)
 [뵈 짜는 집 인스타그램](https://www.instagram.com/antiqus/?igshid=MzRlODBiNWFlZA%3D%3D)
 [페퍼와 민트와 함께하는 스피닝 앤드 뜨개질 : 네이버 블로그](https://m.blog.naver.com/PostList.naver?blogId=aileenknits)
+
+# 직조 (위빙, Weaving)
